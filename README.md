@@ -3,7 +3,7 @@
  - I study at Sapientia Hungarian University of Transylvania
  - I’m currently working on two full-stack projects
  - I would like to colaborate with front end developers and designers for the UI of my projects
- - You can reach me here 👉 http://www.matheervin.netlify.app                
+ - You can reach me here 👉 https://matheervin.netlify.app/                
 
 <!--
 **ervinmathe/ervinmathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
